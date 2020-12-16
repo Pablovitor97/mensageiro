@@ -1,0 +1,25 @@
+npm install -g create-react-app
+
+na pasta -> im-tutorital 
+
+\im-tutorial> npm install react-router-dom
+
+\im-tutorial> npm install firebase@6.0.2
+
+\im-tutorial> npm install @material-ui/core
+
+\im-tutorial> npm install @material-ui/icons
+
+##
+cd Documentos
+cd nome-da-pasta
+cd nome-da-pasta-com-react
+cd yar start
+
+###
+proximo passo é ir no firebase e
+
+adicionar um novo projeto;
+forma de autentificação do usuario, escolha a forma de email;
+
+

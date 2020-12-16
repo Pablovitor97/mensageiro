@@ -1,0 +1,9 @@
+na construção do chat:
+adiconei 3 campos no firebase:
+
+recelverHasRead = boolean com valor false;
+users = ana e bob, como array;
+ mapeei os objetos:
+fiz como se o "Bob" mandasse a mensagem primeiro para a outra pessa,
+depois foi a vez do usuario "Ana" mandar mensagem.
+

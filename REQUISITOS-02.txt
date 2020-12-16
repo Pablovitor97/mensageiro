@@ -1,0 +1,21 @@
+MENSAGEIRO
+
+1 - na primeira tela haverá um botão que direcionará o usuario a pagina login
+
+1.2 - na pagina login haverá os campos de informaçoes, devem ser prenchios
+
+1.3 - caso o usuario errar a senha ou o user, uma mensagem de erro surgirá
+
+1.4 - caso o user não possuir um login, uma mensagem de erro surgirá e ele (a) terá que se inscrever para poder usar o MENSAGEIRO
+
+2 - caso o usuario não posuir um cadastro, ele pode se dirigir a pagina de "se inscreva";
+
+2.1 - com com campos preenchidos corretamente, ele deverá voltar para a pagina de login e apertar ENTER;
+
+3 - quando o usuario estiver logado, ele poderá mandar mensagem para outra pessoa; qualquer que tenha um cadastro naquela mesma sala;
+
+3.1 - caso ele queira mandar mensagem para um amigo (a) que não esteja naquela sala, ele poderá ir em NOVA MENSAGEM e escrever o EMAIL e a mensagem desejada para a outra pessoa
+
+3.2 - a pessoa deverá ser um novo user, e não um existente em sua lista de contatos
+
+4 - apos um contato, novo ou já existente receber uma mensagem, haverá um sino em cima da conversa, indicando possuir uma nova mensagem não lida;

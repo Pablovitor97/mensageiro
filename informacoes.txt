@@ -1,0 +1,45 @@
+Requisitos:
+
+- Registrar
+- Fazer login
+- Enviar mensagem
+- Receber mensagem
+- Visualizar dados da mensagem
+
+Casos de uso
+
+UC-001:
+    Registrar
+        Descrição:
+            O usuário deverá inserir um nome, email, username e senha para se registrar
+        Atores:
+            - Usuário
+
+UC-002:
+    Fazer login
+        Descrição:
+            O usuário deverá inserir um email e senha para fazer login
+        Atores:
+            - Usuário
+
+UC-003:
+    Enviar mensagem
+        Descrição:
+            O usuário deverá inserir um email ou username ou clicar em uma conversa para enviar uma mensagem
+        Atores:
+            - Usuário
+
+UC-004:
+    Receber mensagem
+        Descrição:
+            O sistema deverá ficar "escutando" por mensagens recebidas, ao receber uma mensagem, deverá exibir ou enviar uma notificação para o usuário
+        Atores:
+            - Sistema
+
+UC-005:
+    Visualizar dados da mensagem
+        Descrição:
+            Ao pressionar e segurar em uma mensagem, o sistema deverá exibir para o usuário dados daquela mensagem, como por exemplo: hora de envio, se foi lida ou não.
+        Atores:
+            - Sistema
+            - Usuário
